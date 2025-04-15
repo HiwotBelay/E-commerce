@@ -32,5 +32,6 @@ A powerful, scalable e-commerce web app inspired by Amazon – built using **Nex
 - **ORM:** Prisma
 - **Authentication & State:** Firebase Auth, Context API
 
+---
 
 
