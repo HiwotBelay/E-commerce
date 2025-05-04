@@ -17,7 +17,7 @@ A powerful, scalable e-commerce web app inspired by Amazon – built using **Nex
 - ✅ Real-time cart and order updates (via Firebase)
 - ✅ Product filtering (by category & price range)
 - ✅ User authentication (signup, login, logout)
-- ✅ Newsletter subscription sections
+- ✅ Newsletter subscription section
 - ✅ Product categorization & review system
 - ✅ Admin vs. user role-based access
 - ✅ Dynamic cart & user notifications
