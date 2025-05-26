@@ -1,6 +1,6 @@
 # 🛒 My amazing E-commerce Project
 
-A powerful, scalable e-commerce web app inspired by Amazon – built using **Next.js**, **React**, **Node.js**, **Express**, **Firebase Realtime Database**, **PostgreSQL**, and **Prisma**
+A powerful, scalable e-commerce web app inspired by Amazon – built using **Next.js**, **React**, **Node.js**, **Express**, **Firebase Realtime Database**, **PostgreSQL**, and **Prisma**.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
