@@ -2,9 +2,11 @@
   "name": "my-ecommerce-project",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
     "start": "next start",
     "lint": "next lint"
+    "postinstall": "prisma generate",
+    "build": "prisma generate && next build",
+    "vercel-build": "prisma generate && next build"
   },
   "dependencies": {
     "@auth/core": "latest",
