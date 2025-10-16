@@ -25,7 +25,6 @@ A full‑stack e‑commerce web application with authentication, cart/checkout, 
 - Getting Started
 - Environment Variables
 - Scripts
-- Roadmap (What’s Done / What’s Left)
 - Deployment Notes
 - Contributing
 - License
@@ -245,30 +244,6 @@ Copy the webhook signing secret into `STRIPE_WEBHOOK_SECRET`.
 
 ---
 
-## Roadmap
-
-### ✅ Implemented
-- Next.js app with product listing/detail pages
-- Cart: add, update, remove, server-side persistence
-- Orders: create and fetch
-- Stripe payments: PaymentIntent + webhook status updates
-- Auth: NextAuth with Google + credentials, protected routes, custom `/login`
-- UI: Tailwind + shadcn/radix components, dark mode, toasts, dialogs, carousels
-- Prisma models and Postgres integration
-
-### ⏳ In Progress / Nice-to-Have
-- Seed scripts and sample data
-- Admin dashboard (products CRUD, orders management)
-- Inventory management + stock decrements
-- Shipping methods and tax calculation improvements
-- Email notifications (Nodemailer integration)
-- Coupons/discounts, wishlist
-- Reviews/ratings
-- Search, filters, sorting enhancements
-- Accessibility audit and performance tuning
-- E2E/Integration tests (e.g., Playwright, Vitest)
-
----
 
 ## Deployment Notes
 
@@ -285,8 +260,3 @@ Copy the webhook signing secret into `STRIPE_WEBHOOK_SECRET`.
 2) Keep PRs focused and well‑scoped
 3) Ensure TypeScript, lint, and build pass
 
----
-
-## License
-
-MIT
