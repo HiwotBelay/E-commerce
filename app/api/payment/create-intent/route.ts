@@ -3,6 +3,8 @@ import { db } from "@/lib/db"
 import { auth } from "@/lib/auth"
 import Stripe from "stripe"
 
+export const runtime = "nodejs"
+
 const stripe = new Stripe(process.env.STRIPE_SECRET_KEY!, {
   apiVersion: "2023-10-16",
 })

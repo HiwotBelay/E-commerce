@@ -1,6 +1,8 @@
 import { NextResponse } from "next/server"
 import { db } from "@/lib/db"
 
+export const runtime = "nodejs"
+
 export async function GET(request: Request, { params }: { params: { id: string } }) {
   try {
     const product = await db.product.findUnique({
