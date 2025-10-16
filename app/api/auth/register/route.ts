@@ -3,6 +3,8 @@ import { db } from "@/lib/db"
 import { hash } from "bcrypt"
 import { z } from "zod"
 
+export const runtime = "nodejs"
+
 // Validation schema
 const userSchema = z.object({
   name: z.string().min(2, "Name must be at least 2 characters"),
