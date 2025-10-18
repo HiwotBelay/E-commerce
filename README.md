@@ -1,6 +1,6 @@
 ## E‑commerce (Next.js + Prisma + Stripe)
 
-A full‑stack e‑commerce web application with authentication, cart/checkout, orders, and Stripe payments. Built with Next.js App Router, React 19, TypeScript, Prisma ORM, PostgreSQL, Tailwind CSS, and a modern component system.........
+A full‑stack e‑commerce web application with authentication, cart/checkout, orders, and Stripe payments. Built with Next.js App Router, React 19, TypeScript, Prisma ORM, PostgreSQL, Tailwind CSS, and a modern component system..........
 
 ### ✨ Highlights
 - **Modern stack**: Next.js 15 (App Router), React 19, TypeScript
